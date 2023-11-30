@@ -47,6 +47,7 @@ namespace FrogGame
             else
             {
                 MessageBox.Show("Так ходить нельзя!");
+
             }
         }
     }
